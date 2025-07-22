@@ -1,0 +1,10 @@
+class student:
+       def __init(self, name, id):
+             self.name=name
+             self.id=id
+
+       def show(self)
+          print(self.name ,"has id as " ,self.id)
+    
+ s1=student("Priya",101)
+ a1.show()
